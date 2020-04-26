@@ -4,8 +4,8 @@ This repo provides a stack of tutorials for optimisation theory and tools.
 
 ## Theory
 
-- [Overview]()
+- [A Brief Overview](/theory/OptimisationMethods_Overview.ipynb)
 
 ## Tools and Examples
 
-- [OpEn](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn)
+- [OpEn](/tools_examples/OpEn)
