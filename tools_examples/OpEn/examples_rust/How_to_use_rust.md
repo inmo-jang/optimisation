@@ -17,8 +17,11 @@
 - Build by ``cargo build``
 
 - Run by ``cargo run``
+  - Then, by default, you will get ``Hello, world!``, which is from ``/src/main.rs``.
 
-- (Optional) Also there are functions for 
+- Now, you can modify the ``main.rs`` for your project purpose. 
+
+## (Optional) Also there are functions for 
   - Test by `cargo test`
   - Documentation by `cargo doc`
   
