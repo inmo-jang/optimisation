@@ -9,7 +9,7 @@
 
 ## Examples
 
-[01)]() Rosenbrock function
+[01)](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_python/example_rosenbrock) Rosenbrock function
 
 [02)]() $\min (x-p_1)^2$, subject to $x < p_2$
 
