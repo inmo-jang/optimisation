@@ -22,7 +22,7 @@ meta = og.config.OptimizerMeta()                \
     .with_version("0.0.0")                      \
     .with_authors(["P. Sopasakis", "E. Fresk"]) \
     .with_licence("CC4.0-By")                   \
-    .with_optimizer_name("the_optimizer")        
+    .with_optimizer_name("rosenbrock")        
 
 build_config = og.config.BuildConfiguration()  \
     .with_build_directory("python_build")      \

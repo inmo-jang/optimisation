@@ -1,6 +1,6 @@
 import opengen as og
 
-mng = og.tcp.OptimizerTcpManager('python_build/paneltymethod_example')
+mng = og.tcp.OptimizerTcpManager('python_build/rosenbrock')
 mng.start()
 
 pong = mng.ping()                 # check if the server is alive
