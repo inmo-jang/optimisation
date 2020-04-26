@@ -17,7 +17,7 @@
     Solution: x =  [-0.8143262975451454, -0.46488157789626977, -0.6217488270466801, -0.4479993439349785, -1.0]
     Solver_time: =  0.196455
     ```
-- [See this for another note](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_python/OpEn_Python_Panelty.ipynb).
+- For details, you may find [this](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_python/OpEn_Python_Panelty.ipynb) helpful.
 
 
 ## Examples
