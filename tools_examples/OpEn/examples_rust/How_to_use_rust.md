@@ -6,7 +6,7 @@
 
 ## Usage
 
-- Create a new project by ```cargo new {project_name} -bin```. Then, it will automatically create a new project folder.
+- Create a new project by ```cargo new {project_name} --bin```. Then, it will automatically create a new project folder.
 
 - Move to the project folder
 
