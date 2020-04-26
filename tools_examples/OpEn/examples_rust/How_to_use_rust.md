@@ -10,7 +10,9 @@
 
 - Move to the project folder
 
-- Modify ``Cargo.toml`` to add any required dependancies. 
+- Modify ``Cargo.toml`` to add any required dependancies after ``[dependencies]``, for example,
+  - [OpEn](https://alphaville.github.io/optimization-engine/docs/installation#open-in-rust) : ``optimization_engine = "0.6.2"``
+  - [Random Number](https://docs.rs/crate/rand/0.3.14): ``rand = "0.3.14"``
 
 - Build by ``cargo build``
 
