@@ -15,7 +15,7 @@
 
 As of Apr 2020, OpEn provides 3 types of usages: (1) Rust; (2); Python API; (3) MATLAB API. The followings show examples of how to use OpEn by each of the ways. From my experience, using rust directly provides much faster than Python API for a simple optimisation problem. 
 
-  - [Rust](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example.ipynb)
+  - [Rust](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust)
 
   - [Python API](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_python/OpEn_Python_Panelty.ipynb)
 
