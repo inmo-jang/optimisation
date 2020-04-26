@@ -4,6 +4,7 @@
 
 - Thus, You need to know [how to use it](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/How_to_use_rust.md)
 
+- Further details for some examples are described in [here](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example.ipynb)
 
 ## Examples
 
