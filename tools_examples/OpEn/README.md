@@ -2,13 +2,13 @@
 
 ## Introduction 
 
-**[OpEn](https://alphaville.github.io/optimization-engine/)** is a "fast and accurate embedded optimization engine for robotics and autonomous systems". Its detailed was published in [1]. 
+- **[OpEn](https://alphaville.github.io/optimization-engine/)** is a "fast and accurate embedded optimization engine for robotics and autonomous systems". Its detailed was published in [1]. 
 
-This framework is based on PANOC (**P**roximal **A**veraged **N**ewton-type method for **O**ptimal **C**ontrol) [2]
+- This framework is based on PANOC (**P**roximal **A**veraged **N**ewton-type method for **O**ptimal **C**ontrol) [2]
 
-Its application examples for collision avoidances are described in [3][4]. 
+- Its application examples for collision avoidances are described in [3][4]. 
 
-
+- OpEn is basically based on a programming language called [rust](https://www.rust-lang.org/). How to use rust is briefly described in [here](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/How_to_use_rust.md).  
 
 
 ## Examples: How to use 
