@@ -12,3 +12,7 @@
 
 [02)](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust/example_02) $\min (x-p_1)^2$, subject to $x < p_2$
 
+
+## Etc.
+
+- [Using Rust with Jupyter Notebook](https://github.com/google/evcxr/tree/master/evcxr_jupyter) 
