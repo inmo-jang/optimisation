@@ -2,3 +2,7 @@
 *.lock
 target/
 python_build/
+
+
+# jupyter notebook
+.ipynb_checkpoints
