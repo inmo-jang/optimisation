@@ -16,6 +16,9 @@
 
 04) $\min f(x)$ subject to $F(x) = 0$ using ALM/PM: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example_04.ipynb)] [[source](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust/example_04)]
 
+05) Alternative approach for Example 04, and lessons learnt: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example_05.ipynb)]
 ## Etc.
 
 - [Using Rust with Jupyter Notebook](https://github.com/google/evcxr/tree/master/evcxr_jupyter) 
+
+- You can play with rust in [Rust Online Executer](https://play.rust-lang.org/) 
