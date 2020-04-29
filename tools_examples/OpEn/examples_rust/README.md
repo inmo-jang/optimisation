@@ -4,7 +4,11 @@
 
 - Thus, You need to know [how to use it](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/How_to_use_rust.md)
 
-- Further details for some examples are described in [here](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example.ipynb)
+- Further details for some examples are described in the following Jupyter notebooks.
+
+- If you want to solve 
+  - A simple optimisation problem with constraints for decision variables. Then, it is better to use `PANOCOptimizer`. See examples 01 and 02. 
+  - A complicated problem with $F(x) \in C$ constraints: Then, you should use `AlmOptimizer`. See the remaining examples.
 
 ## Examples
 
