@@ -23,6 +23,8 @@
 05) Alternative approach for Example 04, and lessons learnt: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_example_05.ipynb)]
 ## Etc.
 
+06) Obstacle Avoidance Example (Simplified): [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_obs_avoidance_simplified.ipynb)] [[Examples Plot Visualisation](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_obs_avoidance_plotcheck.ipynb)]
+
 - [Using Rust with Jupyter Notebook](https://github.com/google/evcxr/tree/master/evcxr_jupyter) 
 
 - You can play with rust in [Rust Online Executer](https://play.rust-lang.org/) 
