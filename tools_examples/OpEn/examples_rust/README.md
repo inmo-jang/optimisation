@@ -24,6 +24,7 @@
 
 06) Obstacle Avoidance Example (Simplified): [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_obs_avoidance_simplified.ipynb)] [[Examples Plot Visualisation](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_obs_avoidance_plotcheck.ipynb)]
 
+07) Using a numerical method for gradients based on Example 06: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_general_diff.ipynb)]
 
 ## Etc.
 
