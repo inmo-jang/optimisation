@@ -28,6 +28,8 @@
 
 08) 2D path planner avoiding an obstacle [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_path_planner.ipynb)] [[source](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust/example_08_pathplanning)]
 
+09) **(TODO)** Avoiding multiple obstacles, based on Example 08 
+
 ## Etc.
 
 
