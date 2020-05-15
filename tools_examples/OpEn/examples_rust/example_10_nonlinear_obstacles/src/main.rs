@@ -268,6 +268,8 @@ fn main(){
 
 }
 
+/* The following will be used for path planning 
+
 // Problem Master 
 pub struct ProblemMaster{
     x_now: Matrix2x1<f64>, // Robot Start Position
@@ -618,3 +620,4 @@ fn main_main(){
 
     println!("Done - Visual Result Generated");
 }
+*/
