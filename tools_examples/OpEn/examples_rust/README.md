@@ -30,7 +30,7 @@
 
 09) Avoiding multiple obstacles, based on Example 08: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_multiple_obstacles.ipynb)] [[source](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust/example_09_multple_obstacles)] 
 
-10) **(TODO)** Nonlinear-shaped obstacles 
+10) **(Ongoing)** Nonlinear-shaped obstacles: [[Jupyter notebook](https://github.com/inmo-jang/optimisation_tutorial/blob/master/tools_examples/OpEn/examples_rust/OpEn_Rust_examples_nonlinear_obstacles.ipynb)] [[source](https://github.com/inmo-jang/optimisation_tutorial/tree/master/tools_examples/OpEn/examples_rust/example_10_nonlinear_obstacles)]
 
 ## Etc.
 
