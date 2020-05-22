@@ -42,3 +42,5 @@
 - You can play with rust in [Rust Online Executer](https://play.rust-lang.org/) 
 
 - If you are not familar with Rust, then [this YouTube tutorial](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) is worth having a look
+
+- [rosrust: using Rust with ROS](https://github.com/adnanademovic/rosrust)
